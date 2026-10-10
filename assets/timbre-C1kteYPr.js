@@ -1,1 +1,0 @@
-const e=[{id:"low",name:"низ",lo:80,hi:300},{id:"lowmid",name:"низкая середина",lo:300,hi:1e3},{id:"mid",name:"середина",lo:1e3,hi:3e3},{id:"presence",name:"присутствие",lo:3e3,hi:6e3},{id:"air",name:"воздух",lo:6e3,hi:12e3}],i={chest:"грудной",mix:"микст",head:"головной",breathy:"с воздухом"};export{e as B,i as R};
